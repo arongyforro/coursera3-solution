@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+
+#header-nav{
+    background-color: rgb(144, 144, 145);
+    border-radius: 0;
+    border: 0;
+    border-bottom: 2px solid black;
+    margin-bottom: 0px;
+}
+
+.navbar-brand a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+h2{
+    margin-top: 10px;
+}
+
+#chicken,#sushi,#beef{
+    background-color: rgb(144, 144, 145);
+    position: relative;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+#gomb{
+    float: right;
+}
+
+#navbarSupportedContent{
+    border-bottom: 2px solid black;
+}
+
+li{
+    border: 1px solid black;
+    
+}
